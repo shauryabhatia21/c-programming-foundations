@@ -1,0 +1,11 @@
+﻿# Compiled Binaries & Objects
+*.exe
+*.o
+*.obj
+*.out
+
+# Ignore external notes/PDF tutorials as requested
+ALL CODES/
+
+# VS Code settings
+.vscode/
