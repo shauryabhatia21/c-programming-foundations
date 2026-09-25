@@ -1,11 +1,11 @@
-﻿# ⚙️ C Programming Foundations & Algorithms
+# ⚙️ C Programming Foundations & Algorithms
 
 [![Compiler: GCC](https://img.shields.io/badge/Compiler-GCC_MinGW-blue?style=for-the-badge&logo=gnu)](https://gcc.gnu.org/)
 [![Language: C](https://img.shields.io/badge/Language-C99%20%2F%20ANSI_C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Verification](https://img.shields.io/badge/Verification-100%25_Compiled_Pass-success?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/shauryabhatia10/c-programming-foundations)
+[![Verification](https://img.shields.io/badge/Verification-100%25_Compiled_Pass-success?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/shauryabhatia21/c-programming-foundations)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-A curated collection of foundational **C programming implementations, arithmetic solvers, conditional control structures, and loop algorithms** built by **[Shaurya Bhatia](https://github.com/shauryabhatia10)**.
+A curated collection of foundational **C programming implementations, arithmetic solvers, conditional control structures, and loop algorithms** built by **[Shaurya Bhatia](https://github.com/shauryabhatia21)**.
 
 ---
 
@@ -33,8 +33,15 @@ c-programming-foundations/
     │   ├── 100-1.c               # Decremental sequence iteration (100 down to 1)
     │   ├── BASIC_FOR_LOOP.c      # Standard for-loop syntax demonstration
     │   ├── check_digit_or_character.c # Comprehensive character/digit/symbol validator
+    │   ├── continue.c            # Loop skip iteration using continue statement
+    │   ├── factorial.c           # Mathematical factorial calculation
     │   ├── float_loop.c          # Floating-point increment loop
-    │   └── Heart.c               # ASCII shape rendering
+    │   ├── Heart.c               # ASCII shape rendering
+    │   ├── Odd_number.c          # Parity filtering and odd sequence generator up to 50
+    │   ├── reverse_table.c       # Reverse multiplication table (10 down to 1)
+    │   ├── STAR_FOR_LOOP.c       # Right-angled nested loop ASCII star pattern
+    │   ├── sum_5_to_50.c         # Arithmetic sequence accumulator (5 to 50)
+    │   └── Table_for_Loop.c      # Dynamic mathematical multiplication table
     │
     └── WHILE LOOPS/
         ├── 0_input.c             # Sentinel condition termination loop
@@ -49,8 +56,8 @@ c-programming-foundations/
 
 - **Standard Streams & Formatting:** Safe formatting with `printf()` and `scanf()`.
 - **Branching & Control Flow:** Multi-condition `if...else if...else`, jump-table `switch...case`, and ternary evaluation (`?:`).
-- **Iteration Constructs:** Linear counting, decremental steps, accumulator patterns, sentinel breaks, and `do...while` execution guarantees.
-- **ASCII Character Processing:** Validation of uppercase `[A-Z]`, lowercase `[a-z]`, digits `[0-9]`, and special characters using numeric range checks.
+- **Iteration Constructs:** Linear counting, decremental steps, accumulator patterns, sentinel breaks, loop continuation (`continue`), and `do...while` execution guarantees.
+- **ASCII Character Processing & Pattern Printing:** Validation of character ranges and 2D nested loops for geometric shape generation.
 
 ---
 
@@ -75,6 +82,7 @@ This repository is licensed under the **[MIT License](./LICENSE)**. Free for per
 ---
 
 <div align="center">
-  <b>Author: [Shaurya Bhatia](https://github.com/shauryabhatia10)</b><br/>
+  <b>Author: [Shaurya Bhatia](https://github.com/shauryabhatia21)</b><br/>
   <i>Undergraduate in Artificial Intelligence @ Bennett University</i>
 </div>
+
