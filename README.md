@@ -83,6 +83,6 @@ This repository is licensed under the **[MIT License](./LICENSE)**. Free for per
 
 <div align="center">
   <b>Author: [Shaurya Bhatia](https://github.com/shauryabhatia21)</b><br/>
-  <i>Undergraduate in Artificial Intelligence @ Bennett University</i>
+  <i>B.Tech Computer Science & Engineering (CSE Core) @ Bennett University</i>
 </div>
 
